@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\NoteAppproject\NoteAppproject\bin\NoteAppproject.dll.config
+C:\Users\DELL\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\NoteAppproject\NoteAppproject\bin\NoteAppproject.dll
+C:\Users\DELL\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\NoteAppproject\NoteAppproject\bin\NoteAppproject.pdb
+C:\Users\DELL\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\NoteAppproject\NoteAppproject\obj\Debug\NoteAppproject.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\NoteAppproject\NoteAppproject\obj\Debug\NoteAppproject.dll
+C:\Users\DELL\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\NoteAppproject\NoteAppproject\obj\Debug\NoteAppproject.pdb
+C:\Users\DELL\Desktop\National Cyber City\NoteAppproject\bin\NoteAppproject.dll.config
+C:\Users\DELL\Desktop\National Cyber City\NoteAppproject\bin\NoteAppproject.dll
+C:\Users\DELL\Desktop\National Cyber City\NoteAppproject\bin\NoteAppproject.pdb
+C:\Users\DELL\Desktop\National Cyber City\NoteAppproject\obj\Debug\NoteAppproject.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\National Cyber City\NoteAppproject\obj\Debug\NoteAppproject.dll
+C:\Users\DELL\Desktop\National Cyber City\NoteAppproject\obj\Debug\NoteAppproject.pdb
